@@ -1,8 +1,9 @@
 
   
 ## Hi Guys 👋 Welcome
- 
-🎓 Formado em Técnico em Informática - TI <br>
+
+ 👈
+🎓 Sou Formado em Técnico em Informática - TI <br>
 👾 Trabalho com Front-End<br> 
 ❤️ UX/UI Designer <br>
 🥇 Social Mídia
