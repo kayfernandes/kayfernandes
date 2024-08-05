@@ -2,7 +2,7 @@
   
 ## Hi Guys 👋 Welcome
 
- 👈
+ 👈<br>
 🎓 Sou Formado em Técnico em Informática - TI <br>
 👾 Trabalho com Front-End<br> 
 ❤️ UX/UI Designer <br>
