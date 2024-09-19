@@ -1,8 +1,12 @@
+<div align = "Center">
+  
 ## Hi Guys 👋 Welcome
 
+</div>
 <div>
   <img height="269cm" align = "left"src = "https://github.com/user-attachments/assets/4259f046-3037-47a3-b1e4-fb6ba86cd4f8"/>
 <div>
+  <br>
   <p>🎓 I have a degree in IT Technician <br>
   🏆 Working with Front-End <br> 
   ❤️ I love UX/UI Designer  <br>
