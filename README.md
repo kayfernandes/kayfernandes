@@ -1,24 +1,23 @@
 ## Hi Guys 👋 Welcome
 
-👈<br>
-🎓 I have a degree in IT Technician<br>
-🏆 Working with Front-End<br> 
-❤️ I love UX/UI Designer <br>
-🥇 Experience with Social Media Management
-
 <div>
-  <img height="145cm" width = "100cm" src = "https://github.com/user-attachments/assets/4259f046-3037-47a3-b1e4-fb6ba86cd4f8"/>
-</div>
-
-## 🌐Social
+  <img height="269cm" align = "left"src = "https://github.com/user-attachments/assets/4259f046-3037-47a3-b1e4-fb6ba86cd4f8"/>
 <div>
+  <p>🎓 I have a degree in IT Technician <br>
+  🏆 Working with Front-End <br> 
+  ❤️ I love UX/UI Designer  <br>
+  🥇 Experience with Social Media Management </p>
+<br>
+<div align = "center">
     <a href="https://www.behance.net/eokayfernandes" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
     <a href="https://discord.com/channels/@oeyak" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
     <a href = "https://www.linkedin.com/in/kayfernandess"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://instagram.com/ekayfernandes" target="_blank"><img     src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/ekayfernandes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-  
-## 💻Technology & Ferramentas:
+
+<hr><br>
+<h2><b>💻Technology & Ferramentas:</b></h2><br>
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
