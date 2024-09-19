@@ -8,7 +8,7 @@
 <div>
   <br>
   <p>🎓 I have a degree in IT Technician <br>
-  🏆 Working with Front-End <br> 
+  🏆 Working with Web Design - Front-End <br> 
   ❤️ I love UX/UI Designer  <br>
   🥇 Experience with Social Media Management </p>
 <br>
