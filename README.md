@@ -8,15 +8,18 @@
   ❤️ I love UX/UI Designer  <br>
   🥇 Experience with Social Media Management </p>
 <br>
-<div align = "center">
+<div align = "left">
     <a href="https://www.behance.net/eokayfernandes" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
     <a href="https://discord.com/channels/@oeyak" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
     <a href = "https://www.linkedin.com/in/kayfernandess"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/ekayfernandes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-  <br>
+<br>
 <hr>
-<h2><b>💻Technology & Ferramentas:</b></h2><br>
+  <br>
+<div align = "left">
+  
+## 💻Technology & Ferramentas:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -42,6 +45,7 @@
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) 
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 
 
+</div>
 <!--
 ## 🛎️ Sumary
 
