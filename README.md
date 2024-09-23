@@ -4,7 +4,7 @@
 
 </div>
 <div>
-  <img height="269cm" align = "left"src = "https://github.com/user-attachments/assets/4259f046-3037-47a3-b1e4-fb6ba86cd4f8"/>
+  <img height="269cm" align = "left"src = "https://github.com/user-attachments/assets/4ae3fde2-9e38-44f4-a01c-61574e08d31e"/>
 <div>
   <br>
   <p>🎓 I have a degree in IT Technician <br>
